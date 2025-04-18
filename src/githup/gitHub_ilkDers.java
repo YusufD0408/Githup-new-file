@@ -5,5 +5,6 @@ public class gitHub_ilkDers {
         System.out.println("Hello Github");
 
         System.out.println("Hos geldin");
+        System.out.println("Ikinci deneme");
     }
 }
